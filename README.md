@@ -7,3 +7,197 @@
 - テスト：`test-cases.ts` に含まれるユニットテストで検証
 - ライセンス：MIT（元のリポジトリ準拠）
 - ブランチ： 毎日の解答は main ブランチに直接コミット＆Pushする
+
+## 進捗状況
+
+questionsディレクトリの順番でリストアップ（完了したものには自分でチェックを入れる）
+
+- [×] 00002 - medium - Get Return Type
+- [×] 00003 - medium - Omit
+- [×] 00004 - easy - Pick
+- [ ] 00005 - extreme - Get Readonly Keys
+- [ ] 00006 - hard - Simple Vue
+- [×] 00007 - easy - Readonly
+- [×] 00008 - medium - Readonly 2
+- [×] 00009 - medium - Deep Readonly
+- [×] 00010 - medium - Tuple to Union
+- [×] 00011 - easy - Tuple to Object
+- [] 00012 - medium - Chainable Options
+- [×] 00013 - warm - Hello World
+- [×] 00014 - easy - First
+- [ ] 00015 - medium - Last
+- [ ] 00016 - medium - Pop
+- [ ] 00017 - hard - Currying 1
+- [ ] 00018 - easy - Tuple Length
+- [ ] 00020 - medium - Promise All
+- [ ] 00043 - easy - Exclude
+- [ ] 00055 - hard - Union to Intersection
+- [ ] 00057 - hard - Get Required
+- [ ] 00059 - hard - Get Optional
+- [ ] 00062 - medium - Type Lookup
+- [ ] 00089 - hard - Required Keys
+- [ ] 00090 - hard - Optional Keys
+- [ ] 00106 - medium - Trim Left
+- [ ] 00108 - medium - Trim
+- [ ] 00110 - medium - Capitalize
+- [ ] 00112 - hard - Capitalize Words
+- [ ] 00114 - hard - CamelCase
+- [ ] 00116 - medium - Replace
+- [ ] 00119 - medium - ReplaceAll
+- [ ] 00147 - hard - C-printf Parser
+- [ ] 00151 - extreme - Query String Parser
+- [ ] 00189 - easy - Awaited
+- [ ] 00191 - medium - Append Argument
+- [ ] 00213 - hard - Vue Basic Props
+- [ ] 00216 - extreme - Slice
+- [ ] 00223 - hard - IsAny
+- [ ] 00268 - easy - If
+- [ ] 00270 - hard - Typed Get
+- [ ] 00274 - extreme - Integers Comparator
+- [ ] 00296 - medium - Permutation
+- [ ] 00298 - medium - Length of String
+- [ ] 00300 - hard - String to Number
+- [ ] 00399 - hard - Tuple Filter
+- [ ] 00459 - medium - Flatten
+- [ ] 00462 - extreme - Currying 2
+- [ ] 00472 - hard - Tuple to Enum Object
+- [ ] 00476 - extreme - Sum
+- [ ] 00517 - extreme - Multiply
+- [ ] 00527 - medium - Append to Object
+- [ ] 00529 - medium - Absolute
+- [ ] 00531 - medium - String to Union
+- [ ] 00533 - easy - Concat
+- [ ] 00545 - hard - Printf
+- [ ] 00553 - hard - Deep Object to Unique
+- [ ] 00599 - medium - Merge
+- [ ] 00612 - medium - KebabCase
+- [ ] 00645 - medium - Diff
+- [ ] 00651 - hard - Length of String 2
+- [ ] 00697 - extreme - Tag
+- [ ] 00730 - hard - Union to Tuple
+- [ ] 00734 - extreme - Inclusive Range
+- [ ] 00741 - extreme - Sort
+- [ ] 00847 - hard - String Join
+- [ ] 00869 - extreme - DistributeUnions
+- [ ] 00898 - easy - Includes
+- [ ] 00925 - extreme - Assert Array Index
+- [ ] 00949 - medium - AnyOf
+- [ ] 00956 - hard - DeepPick
+- [ ] 01042 - medium - IsNever
+- [ ] 01097 - medium - IsUnion
+- [ ] 01130 - medium - ReplaceKeys
+- [ ] 01290 - hard - Pinia
+- [ ] 01367 - medium - Remove Index Signature
+- [ ] 01383 - hard - Camelize
+- [ ] 01978 - medium - Percentage Parser
+- [ ] 02059 - hard - Drop String
+- [ ] 02070 - medium - Drop Char
+- [ ] 02257 - medium - MinusOne
+- [ ] 02595 - medium - PickByType
+- [ ] 02688 - medium - StartsWith
+- [ ] 02693 - medium - EndsWith
+- [ ] 02757 - medium - PartialByKeys
+- [ ] 02759 - medium - RequiredByKeys
+- [ ] 02793 - medium - Mutable
+- [ ] 02822 - hard - Split
+- [ ] 02828 - hard - ClassPublicKeys
+- [ ] 02852 - medium - OmitByType
+- [ ] 02857 - hard - IsRequiredKey
+- [ ] 02946 - medium - ObjectEntries
+- [ ] 02949 - hard - ObjectFromEntries
+- [ ] 03057 - easy - Push
+- [ ] 03060 - easy - Unshift
+- [ ] 03062 - medium - Shift
+- [ ] 03188 - medium - Tuple to Nested Object
+- [ ] 03192 - medium - Reverse
+- [ ] 03196 - medium - Flip Arguments
+- [ ] 03243 - medium - FlattenDepth
+- [ ] 03312 - easy - Parameters
+- [ ] 03326 - medium - BEM Style String
+- [ ] 03376 - medium - InorderTraversal
+- [ ] 04037 - hard - IsPalindrome
+- [ ] 04179 - medium - Flip
+- [ ] 04182 - medium - Fibonacci Sequence
+- [ ] 04260 - medium - NoMiWaSe
+- [ ] 04425 - medium - Greater Than
+- [ ] 04471 - medium - Zip
+- [ ] 04484 - medium - IsTuple
+- [ ] 04499 - medium - Chunk
+- [ ] 04518 - medium - Fill
+- [ ] 04803 - medium - Trim Right
+- [ ] 05117 - medium - Without
+- [ ] 05140 - medium - Trunc
+- [ ] 05153 - medium - IndexOf
+- [ ] 05181 - hard - Mutable Keys
+- [ ] 05310 - medium - Join
+- [ ] 05317 - medium - LastIndexOf
+- [ ] 05360 - medium - Unique
+- [ ] 05423 - hard - Intersection
+- [ ] 05821 - medium - MapTypes
+- [ ] 06141 - hard - Binary to Decimal
+- [ ] 06228 - extreme - JSON Parser
+- [ ] 07258 - hard - Object Key Paths
+- [ ] 07544 - medium - Construct Tuple
+- [ ] 07561 - extreme - Subtract
+- [ ] 08640 - medium - Number Range
+- [ ] 08767 - medium - Combination
+- [ ] 08804 - hard - Two Sum
+- [ ] 08987 - medium - Subsequence
+- [ ] 09142 - medium - CheckRepeatedChars
+- [ ] 09155 - hard - ValidDate
+- [ ] 09160 - hard - Assign
+- [ ] 09286 - medium - FirstUniqueCharIndex
+- [ ] 09384 - hard - Maximum
+- [ ] 09616 - medium - Parse URL Params
+- [ ] 09775 - hard - Capitalize Nest Object Keys
+- [ ] 09896 - medium - GetMiddleElement
+- [ ] 09898 - medium - Appear Only Once
+- [ ] 09989 - medium - Count Element Number to Object
+- [ ] 10969 - medium - Integer
+- [ ] 13580 - hard - Replace Union
+- [ ] 14080 - hard - FizzBuzz
+- [ ] 14188 - hard - Run Length Encoding
+- [ ] 15260 - hard - Tree Path Array
+- [ ] 16259 - medium - ToPrimitive
+- [ ] 17973 - medium - DeepMutable
+- [ ] 18142 - medium - All
+- [ ] 18220 - medium - Filter
+- [ ] 19458 - hard - SnakeCase
+- [ ] 21104 - medium - FindAll
+- [ ] 21106 - medium - Combination Key Type
+- [ ] 21220 - medium - Permutations of Tuple
+- [ ] 25170 - medium - Replace First
+- [ ] 25270 - medium - Transpose
+- [ ] 25747 - hard - IsNegativeNumber
+- [ ] 26401 - medium - JSON Schema to TypeScript
+- [ ] 27133 - medium - Square
+- [ ] 27152 - medium - Triangular Number
+- [ ] 27862 - medium - CartesianProduct
+- [ ] 27932 - medium - MergeAll
+- [ ] 27958 - medium - CheckRepeatedTuple
+- [ ] 28143 - hard - OptionalUndefined
+- [ ] 28333 - medium - Public Type
+- [ ] 29650 - medium - ExtractToObject
+- [ ] 29785 - medium - Deep Omit
+- [ ] 30178 - hard - Unique Items
+- [ ] 30301 - medium - IsOdd
+- [ ] 30430 - medium - Tower of Hanoi
+- [ ] 30575 - hard - BitwiseXOR
+- [ ] 30958 - medium - Pascal's Triangle
+- [ ] 30970 - medium - ShitariterAru
+- [ ] 31447 - extreme - CountReversePairs
+- [ ] 31797 - hard - Sudoku
+- [ ] 31824 - hard - Length of String 3
+- [ ] 31997 - extreme - Parameter Intersection
+- [ ] 32427 - hard - Unbox
+- [ ] 32532 - hard - Binary Addition
+- [ ] 33345 - extreme - Dynamic Route
+- [ ] 33763 - hard - Union to Object From Key
+- [ ] 34007 - medium - Compare Array Length
+- [ ] 34286 - hard - Take Elements
+- [ ] 34857 - medium - Defined Partial Record
+- [ ] 35045 - medium - Longest Common Prefix
+- [ ] 35191 - medium - Trace
+- [ ] 35252 - medium - IsAlphabet
+- [ ] 35314 - hard - Valid Sudoku
+- [ ] 35991 - medium - MyUppercase
