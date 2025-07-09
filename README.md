@@ -30,7 +30,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00017 - hard - Currying 1
 - [×] 00018 - easy - Tuple Length
 - [ ] 00020 - medium - Promise All
-- [ ] 00043 - easy - Exclude
+- [×] 00043 - easy - Exclude
 - [ ] 00055 - hard - Union to Intersection
 - [ ] 00057 - hard - Get Required
 - [ ] 00059 - hard - Get Optional
@@ -46,7 +46,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00119 - medium - ReplaceAll
 - [ ] 00147 - hard - C-printf Parser
 - [ ] 00151 - extreme - Query String Parser
-- [ ] 00189 - easy - Awaited
+- [×] 00189 - easy - Awaited
 - [ ] 00191 - medium - Append Argument
 - [ ] 00213 - hard - Vue Basic Props
 - [ ] 00216 - extreme - Slice
