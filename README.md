@@ -51,7 +51,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00213 - hard - Vue Basic Props
 - [ ] 00216 - extreme - Slice
 - [ ] 00223 - hard - IsAny
-- [ ] 00268 - easy - If
+- [×] 00268 - easy - If
 - [ ] 00270 - hard - Typed Get
 - [ ] 00274 - extreme - Integers Comparator
 - [ ] 00296 - medium - Permutation
@@ -66,7 +66,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00527 - medium - Append to Object
 - [ ] 00529 - medium - Absolute
 - [ ] 00531 - medium - String to Union
-- [ ] 00533 - easy - Concat
+- [×] 00533 - easy - Concat
 - [ ] 00545 - hard - Printf
 - [ ] 00553 - hard - Deep Object to Unique
 - [ ] 00599 - medium - Merge
@@ -79,7 +79,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00741 - extreme - Sort
 - [ ] 00847 - hard - String Join
 - [ ] 00869 - extreme - DistributeUnions
-- [ ] 00898 - easy - Includes
+- [×] 00898 - easy - Includes
 - [ ] 00925 - extreme - Assert Array Index
 - [ ] 00949 - medium - AnyOf
 - [ ] 00956 - hard - DeepPick
