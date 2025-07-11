@@ -105,14 +105,14 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 02857 - hard - IsRequiredKey
 - [ ] 02946 - medium - ObjectEntries
 - [ ] 02949 - hard - ObjectFromEntries
-- [ ] 03057 - easy - Push
-- [ ] 03060 - easy - Unshift
+- [×] 03057 - easy - Push
+- [×] 03060 - easy - Unshift
 - [ ] 03062 - medium - Shift
 - [ ] 03188 - medium - Tuple to Nested Object
 - [ ] 03192 - medium - Reverse
 - [ ] 03196 - medium - Flip Arguments
 - [ ] 03243 - medium - FlattenDepth
-- [ ] 03312 - easy - Parameters
+- [×] 03312 - easy - Parameters
 - [ ] 03326 - medium - BEM Style String
 - [ ] 03376 - medium - InorderTraversal
 - [ ] 04037 - hard - IsPalindrome
