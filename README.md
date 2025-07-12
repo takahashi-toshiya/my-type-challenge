@@ -22,7 +22,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [×] 00009 - medium - Deep Readonly
 - [×] 00010 - medium - Tuple to Union
 - [×] 00011 - easy - Tuple to Object
-- [] 00012 - medium - Chainable Options
+- [×] 00012 - medium - Chainable Options
 - [×] 00013 - warm - Hello World
 - [×] 00014 - easy - First
 - [×] 00015 - medium - Last
