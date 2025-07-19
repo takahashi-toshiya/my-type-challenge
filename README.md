@@ -29,7 +29,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [×] 00016 - medium - Pop
 - [ ] 00017 - hard - Currying 1
 - [×] 00018 - easy - Tuple Length
-- [ ] 00020 - medium - Promise All
+- [×] 00020 - medium - Promise All
 - [×] 00043 - easy - Exclude
 - [ ] 00055 - hard - Union to Intersection
 - [ ] 00057 - hard - Get Required
