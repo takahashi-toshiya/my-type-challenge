@@ -34,10 +34,10 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00055 - hard - Union to Intersection
 - [ ] 00057 - hard - Get Required
 - [ ] 00059 - hard - Get Optional
-- [ ] 00062 - medium - Type Lookup
+- [×] 00062 - medium - Type Lookup
 - [ ] 00089 - hard - Required Keys
 - [ ] 00090 - hard - Optional Keys
-- [ ] 00106 - medium - Trim Left
+- [×] 00106 - medium - Trim Left
 - [ ] 00108 - medium - Trim
 - [ ] 00110 - medium - Capitalize
 - [ ] 00112 - hard - Capitalize Words
