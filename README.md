@@ -38,8 +38,8 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00089 - hard - Required Keys
 - [ ] 00090 - hard - Optional Keys
 - [×] 00106 - medium - Trim Left
-- [ ] 00108 - medium - Trim
-- [ ] 00110 - medium - Capitalize
+- [×] 00108 - medium - Trim
+- [×] 00110 - medium - Capitalize
 - [ ] 00112 - hard - Capitalize Words
 - [ ] 00114 - hard - CamelCase
 - [ ] 00116 - medium - Replace
