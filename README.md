@@ -47,15 +47,15 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00147 - hard - C-printf Parser
 - [ ] 00151 - extreme - Query String Parser
 - [×] 00189 - easy - Awaited
-- [ ] 00191 - medium - Append Argument
+- [×] 00191 - medium - Append Argument
 - [ ] 00213 - hard - Vue Basic Props
 - [ ] 00216 - extreme - Slice
 - [ ] 00223 - hard - IsAny
 - [×] 00268 - easy - If
 - [ ] 00270 - hard - Typed Get
 - [ ] 00274 - extreme - Integers Comparator
-- [ ] 00296 - medium - Permutation
-- [ ] 00298 - medium - Length of String
+- [×] 00296 - medium - Permutation
+- [×] 00298 - medium - Length of String
 - [ ] 00300 - hard - String to Number
 - [ ] 00399 - hard - Tuple Filter
 - [ ] 00459 - medium - Flatten
