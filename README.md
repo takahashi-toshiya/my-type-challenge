@@ -58,7 +58,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [×] 00298 - medium - Length of String
 - [ ] 00300 - hard - String to Number
 - [ ] 00399 - hard - Tuple Filter
-- [ ] 00459 - medium - Flatten
+- [×] 00459 - medium - Flatten
 - [ ] 00462 - extreme - Currying 2
 - [ ] 00472 - hard - Tuple to Enum Object
 - [ ] 00476 - extreme - Sum
