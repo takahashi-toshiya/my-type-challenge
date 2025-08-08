@@ -65,7 +65,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00517 - extreme - Multiply
 - [×] 00527 - medium - Append to Object
 - [×] 00529 - medium - Absolute
-- [ ] 00531 - medium - String to Union
+- [×] 00531 - medium - String to Union
 - [×] 00533 - easy - Concat
 - [ ] 00545 - hard - Printf
 - [ ] 00553 - hard - Deep Object to Unique
