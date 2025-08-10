@@ -69,8 +69,8 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [×] 00533 - easy - Concat
 - [ ] 00545 - hard - Printf
 - [ ] 00553 - hard - Deep Object to Unique
-- [ ] 00599 - medium - Merge
-- [ ] 00612 - medium - KebabCase
+- [×] 00599 - medium - Merge
+- [×] 00612 - medium - KebabCase
 - [ ] 00645 - medium - Diff
 - [ ] 00651 - hard - Length of String 2
 - [ ] 00697 - extreme - Tag
