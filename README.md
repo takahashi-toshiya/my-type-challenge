@@ -71,7 +71,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00553 - hard - Deep Object to Unique
 - [×] 00599 - medium - Merge
 - [×] 00612 - medium - KebabCase
-- [ ] 00645 - medium - Diff
+- [×] 00645 - medium - Diff
 - [ ] 00651 - hard - Length of String 2
 - [ ] 00697 - extreme - Tag
 - [ ] 00730 - hard - Union to Tuple
