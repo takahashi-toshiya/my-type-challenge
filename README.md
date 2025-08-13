@@ -81,7 +81,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00869 - extreme - DistributeUnions
 - [×] 00898 - easy - Includes
 - [ ] 00925 - extreme - Assert Array Index
-- [ ] 00949 - medium - AnyOf
+- [×] 00949 - medium - AnyOf
 - [ ] 00956 - hard - DeepPick
 - [ ] 01042 - medium - IsNever
 - [ ] 01097 - medium - IsUnion
