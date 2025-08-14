@@ -83,7 +83,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 00925 - extreme - Assert Array Index
 - [×] 00949 - medium - AnyOf
 - [ ] 00956 - hard - DeepPick
-- [ ] 01042 - medium - IsNever
+- [×] 01042 - medium - IsNever
 - [ ] 01097 - medium - IsUnion
 - [ ] 01130 - medium - ReplaceKeys
 - [ ] 01290 - hard - Pinia
