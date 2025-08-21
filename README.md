@@ -87,7 +87,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [×] 01097 - medium - IsUnion
 - [×] 01130 - medium - ReplaceKeys
 - [ ] 01290 - hard - Pinia
-- [ ] 01367 - medium - Remove Index Signature
+- [×] 01367 - medium - Remove Index Signature
 - [ ] 01383 - hard - Camelize
 - [ ] 01978 - medium - Percentage Parser
 - [ ] 02059 - hard - Drop String
