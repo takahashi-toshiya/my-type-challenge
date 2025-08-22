@@ -89,7 +89,7 @@ questionsディレクトリの順番でリストアップ（完了したもの�
 - [ ] 01290 - hard - Pinia
 - [×] 01367 - medium - Remove Index Signature
 - [ ] 01383 - hard - Camelize
-- [ ] 01978 - medium - Percentage Parser
+- [×] 01978 - medium - Percentage Parser
 - [ ] 02059 - hard - Drop String
 - [ ] 02070 - medium - Drop Char
 - [ ] 02257 - medium - MinusOne
